@@ -1,3 +1,4 @@
+Live Preview : astroviz-beta.vercel.app
 
 AstroViz is a 3D interactive web platform built for the **NASA Space Apps Challenge 2025 – “Meteor Madness”**.  
 It uses **real NASA Near-Earth Object (NEO) data** and **USGS datasets** to simulate and visualize asteroid impact scenarios on Earth in an educational and intuitive way.
